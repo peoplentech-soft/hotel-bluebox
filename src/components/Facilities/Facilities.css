@@ -1,0 +1,39 @@
+.facilities {
+    overflow: hidden;
+    padding: 40px 0 10px;
+    background-color: #F5F9FA;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.facilitiesTitle{
+    overflow: hidden;
+    width: 35%;
+    margin: 0 auto;
+}
+
+.facilitiesTitle h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.cardContainer {
+    margin-top: 60px;
+}
+
+.facilitiesCard .cardItem {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cardItem p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cardItem .facilitiesIcon {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+

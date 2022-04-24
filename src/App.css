@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.App {
+    background-color: #FCFEFF;
+}
+
+
+.container-brand {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.button-brand {
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: black;
+    padding: 10px 25px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.button-brand:hover {
+    color: #394CFF;
+}

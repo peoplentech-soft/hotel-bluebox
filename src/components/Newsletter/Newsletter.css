@@ -1,0 +1,46 @@
+.newsletter {
+    background-color: #F5F9FA !important;
+    overflow: hidden;
+    padding: 60px 0;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.trustBadge {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.trustBadge img {
+    height: 100px;
+}
+
+.subscriptionContainer {
+    text-align: center;
+}
+
+.subscriptionContainer h2 {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.subscriptionContainer p {
+    margin: 30px 0;
+}
+
+.subscriptionInput input {
+    width: 50%;
+    padding: 20px 0 20px 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: none;
+}
+
+.subscriptionInput button {
+    padding: 20px 25px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: none;
+    background-color: #2d3436;
+    color: white;
+}

@@ -1,0 +1,74 @@
+.header {
+    overflow: hidden;
+}
+
+.header-banner img {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.header-description {
+    margin-top: 30px;
+}
+
+.checkInOutFormContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.inputItem {
+    height: 40px;
+    padding-top: 10px;
+    padding-right: 34px;
+    cursor: pointer;
+}
+
+.inputItem p {
+    margin: 0;
+}
+
+.checkInOutIcon {
+    margin-right: 10px;
+}
+
+.checkInOutFormContainer {
+    height: 60px;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+
+.checkIn,
+.checkOut,
+.persons {
+    border-right: 1px solid grey;
+}
+
+.inputItem > input {
+    border: none;
+}
+
+
+.inputText {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+
+
+.checkInOutForm {
+    border-radius: 20px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}

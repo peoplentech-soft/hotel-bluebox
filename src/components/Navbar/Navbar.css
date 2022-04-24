@@ -1,0 +1,18 @@
+.nav-container {
+    padding: 20px 0;
+}
+
+.nav-button {
+    padding: 10px 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.navbar-nav > li > a {
+    padding: 10px 20px !important;
+    transition: all 0.2s;
+}
+
+.navbar-nav > li > a:hover {
+    color: #394CFF !important;
+}

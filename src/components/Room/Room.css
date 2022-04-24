@@ -1,0 +1,54 @@
+.rooms {
+    overflow: hidden;
+    padding: 40px 0;
+}
+
+
+
+.roomsCard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.cardConatainer {
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.roomCard img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 300px;
+}
+
+.roomCard h4 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.cardIcons > span {
+    margin-right: 30px;
+}
+
+.cardIcons {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.roomCardContent {
+    padding-left: 20px;
+}
+
+
+.roomCard p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.roomCard p > span {
+    font-weight: 400;
+    font-size: 14px;
+    color: grey;
+}

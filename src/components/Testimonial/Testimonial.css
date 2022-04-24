@@ -1,0 +1,21 @@
+.testimonial {
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.testimonial-content p {
+    margin-bottom: 10px; 
+}
+
+.testimonial-img,
+.testimonial-content {
+    padding: 30px;
+}
+
+.testimonial-img img {
+    border-radius: 20px;
+}
+
+.rating-icon {
+    color: #FFBD4F;
+}

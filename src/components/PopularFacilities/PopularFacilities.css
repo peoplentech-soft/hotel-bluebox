@@ -1,0 +1,28 @@
+.popularFacilitiesTitle {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.popularFacilitiesTitle h2 {
+    text-align: center;
+}
+
+.restaurant,
+.gym,
+.pool {
+    border-radius: 30px;
+}
+
+.popularFacilitiesContainer {
+    margin-top: 50px;
+}
+
+.facilitiesImg,
+.gymImg {
+    padding: 50px;
+}
+
+.popularFacilitiesContainer p {
+    margin-bottom: 40px;
+}
+
